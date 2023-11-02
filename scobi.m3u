@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Star_Sports_Network.png/300px-Star_Sports_Network.png” group-title=”Sports”, Star
+http://172.17.50.112/live/fifa2022/index.m3u8
